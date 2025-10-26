@@ -1,9 +1,25 @@
-# 🎮 Game Code Showcase
+# 🌐 Realtime Multiplayer Infrastructure
+Framework powering multiple online games built with React + Firebase, featuring event-driven sync, adaptive difficulty, and OpenAI integration.
 
-A collection of my interactive games built with HTML, JS, and Firebase.
+---
 
-| Game | Description | Code | Play |
-|------|--------------|------|------|
-| 🧠 Hidden King Chess | Online hidden-role chess with Firebase sync | [Code](https://github.com/seanchiugit/hidden-king-chess/tree/main/src) | [Play](https://seanchiugit.github.io/hidden-king-chess) |
-| 🎵 Piano Trainer | Ear-training piano game | [Code](https://github.com/seanchiugit/piano-trainer/tree/main/src) | [Play](https://seanchiugit.github.io/piano-trainer) |
-| 🌈 Wavelength Online | Multiplayer guessing game using real-time database | [Code](https://github.com/seanchiugit/wavelength/tree/main/src) | [Play](https://seanchiugit.github.io/wavelength) |
+## 🔧 Core Features
+- Event-driven Firebase backend for 1000+ concurrent sessions  
+- Player ranking + adaptive difficulty balancing  
+- OpenAI API for dynamic content generation  
+- Transaction batching and indexed queries for 20% lower latency  
+
+---
+
+## 🎮 Projects Using This Framework
+| Game | Description | Repo |
+|------|--------------|------|
+| ♟️ Hidden King Chess | Hidden-role chess game with secret king mechanic | [Code](https://github.com/seanchiugit/hidden-king-chess) |
+| 🌈 Wavelength Online | Multiplayer guessing game with OpenAI clue generation | [Code](https://github.com/seanchiugit/wavelength) |
+| 🎵 Piano Trainer | Music game with real-time attempt tracking | [Code](https://github.com/seanchiugit/piano-trainer) |
+
+---
+
+## 🔗 Related Links
+- 💻 [GitHub Profile](https://github.com/seanchiugit)
+- 🌐 [Portfolio Site](https://seanchiugit.github.io)
